@@ -21,6 +21,7 @@ Arduino based tiller
 costs total < 30 €
 
 # build
+- install library https://github.com/MHeironimus/ArduinoJoystickLibrary
 - connect outer contacts of poti to GND and VCC
 - of inner contacts of poti one to A0, the other to A1
 - upload sketch
