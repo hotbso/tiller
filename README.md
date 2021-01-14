@@ -1,4 +1,4 @@
-# Tiller for flightsimulation
+# Tiller for flight simulation
 Arduino based tiller
 
 ## assembled
