@@ -37,7 +37,7 @@
 #define MID_RANGE 15  // slightly greater +- center hysterisis
 #define NULL_ZONE 10  // 1% raw range, round everything in between to 0
 #define DELTA 4       // only report if raw range 
-#define SLOPE 1.5     // the poti has a higher angular range than the tiller, adjust so it feels natural
+#define SLOPE 1.6     // the poti has a higher angular range than the tiller, adjust so it feels natural
 
 static double center_bias, center_act = 512;
 #define CENTER_ALPHA 0.1  // exp smoother
